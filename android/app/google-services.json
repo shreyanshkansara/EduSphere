@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "640245497763",
+    "project_id": "edusphere-2891f",
+    "storage_bucket": "edusphere-2891f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640245497763:android:f9040ea25fad7c61d3a416",
+        "android_client_info": {
+          "package_name": "com.example.edusphere"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIWM-T14KaIQGkUSJH_28ys0KZ0Si1PHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
